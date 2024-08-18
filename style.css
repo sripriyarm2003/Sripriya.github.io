@@ -123,22 +123,6 @@ span{
     margin-top: 3rem;
     line-height: 1;
 }
-.home-img{
-    border-radius: 50%;
-}
-.home-img img{
-    position: relative;
-    top: 4rem;
-    width: 14vw;
-    border-radius: 50%;
-    box-shadow: 0 0 25px var(--main-color);
-    cursor: pointer;
-    transition: 0.3s ease-in-out;
-}
-.home-img img:hover{
-    box-shadow: 0 0 40px var(--main-color),
-    0 0 10px var(--main-color);
-}
 .home-content p{
     font-size: 1.5rem;
     font-weight: 500;
